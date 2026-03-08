@@ -37,15 +37,20 @@ En lo temperamental, siempre tendré más paciencia con un adversario inteligent
 
 ### Tecnología
 
-**Auto-alojable antes que SaaS.** Si tu herramienta llama a casa, no es tu herramienta, es el sensor de otro apuntándote. Cada dependencia cloud es una decisión de confianza, y hay muy pocas entidades en las que confíe mis datos, mis flujos de trabajo o la inteligencia de mis clientes.
+**Auto-alojable antes que SaaS.** 
+Si tu herramienta llama a casa, no es tu herramienta, es el sensor de otro apuntándote. Cada dependencia cloud es una decisión de confianza, y hay muy pocas entidades en las que confíe mis datos, mis flujos de trabajo o la inteligencia de mis clientes.
 
-**Terminal antes que GUI.** El ratón es una concesión, no un punto de partida. Las interfaces gráficas optimizan para la accesibilidad; los terminales optimizan para el poder. Sé cuál de los dos necesito a las 3 de la mañana durante una respuesta a incidentes.
+**Terminal antes que GUI.** 
+El ratón es una concesión, no un punto de partida. Las interfaces gráficas optimizan para la accesibilidad; los terminales optimizan para el poder. Sé cuál de los dos necesito a las 3 de la mañana durante una respuesta a incidentes.
 
-**IA local antes que dependencia cloud.** Los LLMs son transformadores, pero enrutar tu inteligencia de amenazas por la API de otro es una decisión de OPSEC que la mayoría no se da cuenta de que está tomando. Construyo pipelines local-first, RTX 4090, modelos cuantizados, inferencia a coste cero, y trato la nube como fallback, nunca como opción por defecto.
+**IA local antes que dependencia cloud.** 
+Los LLMs son transformadores, pero enrutar tu inteligencia de amenazas por la API de otro es una decisión de OPSEC que la mayoría no se da cuenta de que está tomando. Construyo pipelines local-first, RTX 4090, modelos cuantizados, inferencia a coste cero, y trato la nube como fallback, nunca como opción por defecto.
 
-**Open source antes que propietario.** No solo por ideología, sino porque la auditabilidad es una propiedad de seguridad. Código que no puedo leer es código en el que no puedo confiar. Esto aplica a mis herramientas, a mis modelos de IA y a los sistemas que ayudo a defender.
+**Open source antes que propietario.** 
+No solo por ideología, sino porque la auditabilidad es una propiedad de seguridad. Código que no puedo leer es código en el que no puedo confiar. Esto aplica a mis herramientas, a mis modelos de IA y a los sistemas que ayudo a defender.
 
-**Construir antes que comprar.** Los productos de estantería resuelven el caso de uso medio. El trabajo de inteligencia nunca es el caso de uso medio. Cada herramienta en mis repos existe porque la alternativa era confiar en las asunciones de otro sobre mi flujo de trabajo.
+**Construir antes que comprar.** 
+Los productos de estantería resuelven el caso de uso medio. El trabajo de inteligencia nunca es el caso de uso medio. Cada herramienta en mis repos existe porque la alternativa era confiar en las asunciones de otro sobre mi flujo de trabajo.
 
 ### Oficio
 
