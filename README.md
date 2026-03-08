@@ -3,7 +3,9 @@
   <img src="header.png" alt="header" width="100%"/>
 </p>
 
-English Version below.
+[English Version below](#-hello)
+
+---
 
 ## 👋 Hola
 
@@ -81,13 +83,117 @@ En el lado ofensivo, me centro en metodologías de red team, automatización de 
 
 **Network Diagnostic TUI** — Diagnóstico de red por terminal multiplataforma con análisis por capas OSI, módulos específicos por fabricante y análisis heurístico de causa raíz.
 
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+
+## 🛡️ Frameworks y Estándares con los que Trabajo
+
+Esto no es una wishlist — son los frameworks, estándares y técnicas analíticas que uso en producción.
+
+### Estándares Analíticos (IC)
+
+![ICD 203](https://img.shields.io/badge/ICD_203-Estándares_Analíticos-1B3A4B?style=for-the-badge)
+![ICD 206](https://img.shields.io/badge/ICD_206-Requisitos_de_Sourcing-1B3A4B?style=for-the-badge)
+
+Rigor, distinción entre hechos y análisis, disciplina de sourcing. La línea base de cualquier producto de inteligencia que merezca llamarse tal.
+
+### Técnicas Analíticas Estructuradas (SATs)
+
+![ACH](https://img.shields.io/badge/ACH-Hipótesis_Competitivas-2E8B57?style=for-the-badge)
+![Key Assumptions Check](https://img.shields.io/badge/Key_Assumptions-Check-2E8B57?style=for-the-badge)
+![I&W](https://img.shields.io/badge/Indicators_%26_Warnings-I%26W-2E8B57?style=for-the-badge)
+![Scenario Analysis](https://img.shields.io/badge/Scenario-Analysis-2E8B57?style=for-the-badge)
+![Diagnostic Reasoning](https://img.shields.io/badge/Diagnostic-Reasoning-2E8B57?style=for-the-badge)
+![Devil's Advocacy](https://img.shields.io/badge/Devil's_Advocacy-Red_Teaming-2E8B57?style=for-the-badge)
+
+Matrices evidencia vs. hipótesis con scoring de diagnosticidad, validación sistemática de supuestos, desarrollo de indicadores observables, modelado de futuros alternativos y perspectivas adversariales integradas. No son ejercicios académicos — son la estructura de cada evaluación que produzco.
+
+### Frameworks de Correlación Táctica
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge)
+![Diamond Model](https://img.shields.io/badge/Diamond_Model-Intrusion_Analysis-ED1C24?style=for-the-badge)
+![STIX/TAXII](https://img.shields.io/badge/STIX%2FTAXII-Intercambio_CTI-ED1C24?style=for-the-badge)
+![TIBER-EU](https://img.shields.io/badge/TIBER--EU-Threat_Intel_Led_Testing-ED1C24?style=for-the-badge)
+![MSIF](https://img.shields.io/badge/MSIF-Integración_Multi--Fuente-ED1C24?style=for-the-badge)
+
+MITRE ATT&CK para mapear indicadores a TTPs concretas. Diamond Model (adversario-capacidad-infraestructura-víctima) para correlación granular más allá de la integración multi-fuente básica. La fase TTI de TIBER-EU para producir escenarios de ataque accionables basados en el perfil específico del target, no amenazas genéricas. STIX/TAXII para output estructurado que alimente sistemas automatizados — especialmente relevante con SYNAPSE en desarrollo. MSIF para integración multi-fuente con evaluación de independencia y detección de cámaras de eco.
+
+### Capa de Contexto Regulatorio
+
+![NIS2](https://img.shields.io/badge/NIS2-Directiva_UE-4169E1?style=for-the-badge)
+![DORA](https://img.shields.io/badge/DORA-Resiliencia_Operativa_Digital-4169E1?style=for-the-badge)
+![ENS](https://img.shields.io/badge/ENS-Esquema_Nacional_Seguridad-4169E1?style=for-the-badge)
+
+No son frameworks analíticos — son el contexto regulatorio que condiciona qué nivel de confianza requiere qué tipo de acción. Los criterios de categorización de incidentes ICT de DORA (impacto transfronterizo, clientes afectados, duración) alimentan directamente el sistema de clasificación para que el output venga pre-etiquetado con relevancia regulatoria. Crítico en un MSSP donde cada cliente tiene un perfil regulatorio diferente.
+
+### Calidad y Confianza
+
+![Confidence Framework](https://img.shields.io/badge/Confidence-Calibración-FF6F00?style=for-the-badge)
+![AI Hallucination Detection](https://img.shields.io/badge/AI_Hallucination-Detection-FF6F00?style=for-the-badge)
+![Cognitive Bias Mitigation](https://img.shields.io/badge/Cognitive_Bias-Mitigación-FF6F00?style=for-the-badge)
+![Source Correlation Matrix](https://img.shields.io/badge/Source_Correlation-Matrix-FF6F00?style=for-the-badge)
+
+Calibración de confianza ajustada por fiabilidad de fuentes. Verificación de consistencia y atribución de fuentes en outputs de LLMs. Detección sistemática de confirmation bias, cherry-picking y overconfidence. Mapeo de relaciones entre fuentes para identificación de cámaras de eco. Porque inteligencia sin control de calidad es solo ruido con membrete.
+
+### Clasificación y Manejo
+
+![TLP](https://img.shields.io/badge/TLP-Traffic_Light_Protocol-8B8B00?style=for-the-badge)
+![NOFORN](https://img.shields.io/badge/NOFORN-Handling_Instructions-8B8B00?style=for-the-badge)
+![Need to Know](https://img.shields.io/badge/Need_to_Know-Compartimentación-8B8B00?style=for-the-badge)
+
+Sistema de clasificación estándar, instrucciones de manejo, compartimentación y principio de need-to-know. No porque trabaje en un SCIF, sino porque tratar los productos de inteligencia con disciplina de clasificación adecuada — incluso en el sector privado — es lo que separa a los profesionales de los blogueros.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=161b22&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&hide_border=false" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=github_dark&bg_color=0d1117&border_color=161b22&title_color=58a6ff&text_color=8b949e&hide_border=false" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TU_USERNAME&theme=github-dark-blue&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</p>
+
+<!-- 🟡👻 Pac-Man — descomenta DESPUÉS de configurar el GitHub Action -->
+<!--
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/pacman-contribution-graph-dark.svg"/>
+  </picture>
+</p>
+-->
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ENGLISH VERSION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 👋 Hello
 
 You will only know of me what I want you to know. Don't mistake what you read and see here for a profile.
 
 I'm a Cyber Threat Intelligence analyst working at an MSSP, focused on making sense of the noise — collecting, analyzing, and turning raw data into actionable intelligence. My day-to-day lives at the intersection of OSINT, counterintelligence, and offensive security, with a growing obsession for building AI-powered tools that actually help analysts do their job better.
 
-I do not consider myself an expert in nothing at all. 100%  I like to ask, question everything and learn. 
+I do not consider myself an expert in anything at all. What I am, 100%, is someone who asks, questions everything, and learns.
 
 I believe the best tools are the ones you build yourself. Everything here is self-hostable, terminal-native, and designed to solve real operational problems. If a tool I need doesn't exist, I treat that as a project spec, not a complaint.
 
@@ -103,7 +209,7 @@ I'm interested in the superstructure — ideology, narrative, mechanisms of cont
 
 ### Politics
 
-Heterodox left, anti-liberal, anti-identitarian. Closer to materialist critique than to institutional progressivism. I'm not a social democrat, not a libertarian, and not interested in the managed decline that passes for centrism, if you want to call me an Anarchist, go on. I see the system as a structural problem, but I profoundly distrust the solutions offered by both the mainstream right and the mainstream left — the first because it serves capital openly, the second because it serves capital while pretending not to.
+Heterodox left, anti-liberal, anti-identitarian. Closer to materialist critique than to institutional progressivism. I'm not a social democrat, not a libertarian, and not interested in the managed decline that passes for centrism — if you want to call me an Anarchist, go on. I see the system as a structural problem, but I profoundly distrust the solutions offered by both the mainstream right and the mainstream left — the first because it serves capital openly, the second because it serves capital while pretending not to.
 
 I believe in individual sovereignty — epistemic, technical, and political. Not as an atomized libertarian fantasy, but as a precondition for any meaningful collective action. You can't build solidarity between people who can't think for themselves. Rousseau is the only classical political theorist on my shelf, and it's no accident: the social contract as a necessary fiction, not as revealed truth.
 
@@ -175,13 +281,62 @@ On the offensive side, I focus on red team methodologies, reconnaissance automat
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
-## 🛡️ Intel Frameworks
+## 🛡️ Frameworks & Standards I Work With
 
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=white)
-![STIX/TAXII](https://img.shields.io/badge/STIX%2FTAXII-1B3A4B?style=for-the-badge&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-2E8B57?style=for-the-badge&logoColor=white)
-![Multi--Agent LLM](https://img.shields.io/badge/Multi--Agent_LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Integrations-FF6F00?style=for-the-badge&logoColor=white)
+This is not a wishlist — these are the frameworks, standards, and analytical techniques I use in production intelligence work.
+
+### Analytical Standards (IC)
+
+![ICD 203](https://img.shields.io/badge/ICD_203-Analytic_Standards-1B3A4B?style=for-the-badge)
+![ICD 206](https://img.shields.io/badge/ICD_206-Sourcing_Requirements-1B3A4B?style=for-the-badge)
+
+Rigor, distinction between facts and analysis, sourcing discipline. The baseline for any intelligence product that deserves to be called one.
+
+### Structured Analytic Techniques (SATs)
+
+![ACH](https://img.shields.io/badge/ACH-Competing_Hypotheses-2E8B57?style=for-the-badge)
+![Key Assumptions Check](https://img.shields.io/badge/Key_Assumptions-Check-2E8B57?style=for-the-badge)
+![I&W](https://img.shields.io/badge/Indicators_%26_Warnings-I%26W-2E8B57?style=for-the-badge)
+![Scenario Analysis](https://img.shields.io/badge/Scenario-Analysis-2E8B57?style=for-the-badge)
+![Diagnostic Reasoning](https://img.shields.io/badge/Diagnostic-Reasoning-2E8B57?style=for-the-badge)
+![Devil's Advocacy](https://img.shields.io/badge/Devil's_Advocacy-Red_Teaming-2E8B57?style=for-the-badge)
+
+Evidence-vs-hypothesis matrices with diagnosticity scoring, systematic assumption validation, observable indicator development, alternative futures modeling, and integrated adversarial perspectives. These aren't academic exercises — they're how I structure every assessment.
+
+### Tactical Correlation Frameworks
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge)
+![Diamond Model](https://img.shields.io/badge/Diamond_Model-Intrusion_Analysis-ED1C24?style=for-the-badge)
+![STIX/TAXII](https://img.shields.io/badge/STIX%2FTAXII-CTI_Exchange-ED1C24?style=for-the-badge)
+![TIBER-EU](https://img.shields.io/badge/TIBER--EU-Threat_Intel_Led_Testing-ED1C24?style=for-the-badge)
+![MSIF](https://img.shields.io/badge/MSIF-Multi--Source_Integration-ED1C24?style=for-the-badge)
+
+MITRE ATT&CK for mapping indicators to concrete TTPs. Diamond Model (adversary-capability-infrastructure-victim) for granular correlation beyond basic multi-source integration. TIBER-EU's Targeted Threat Intelligence phase for producing actionable attack scenarios based on specific target profiles, not generic threats. STIX/TAXII for structured output that feeds automated systems — especially relevant with SYNAPSE in the pipeline. MSIF for multi-source integration with independence evaluation and echo chamber detection.
+
+### Regulatory Context Layer
+
+![NIS2](https://img.shields.io/badge/NIS2-EU_Directive-4169E1?style=for-the-badge)
+![DORA](https://img.shields.io/badge/DORA-Digital_Operational_Resilience-4169E1?style=for-the-badge)
+![ENS](https://img.shields.io/badge/ENS-Esquema_Nacional_Seguridad-4169E1?style=for-the-badge)
+
+These aren't analytical frameworks — they're the regulatory context that conditions what level of confidence requires what type of action. DORA's ICT incident categorization criteria (cross-border impact, affected clients, duration) feed directly into classification systems so that output comes pre-tagged with regulatory relevance. Critical in an MSSP where every client has a different regulatory profile.
+
+### Quality & Confidence
+
+![Confidence Framework](https://img.shields.io/badge/Confidence-Calibration-FF6F00?style=for-the-badge)
+![AI Hallucination Detection](https://img.shields.io/badge/AI_Hallucination-Detection-FF6F00?style=for-the-badge)
+![Cognitive Bias Mitigation](https://img.shields.io/badge/Cognitive_Bias-Mitigation-FF6F00?style=for-the-badge)
+![Source Correlation Matrix](https://img.shields.io/badge/Source_Correlation-Matrix-FF6F00?style=for-the-badge)
+
+Confidence calibration adjusted by source reliability. LLM output verification for consistency and source attribution. Systematic detection of confirmation bias, cherry-picking, and overconfidence. Source relationship mapping for echo chamber identification. Because intelligence without quality control is just noise with a letterhead.
+
+### Classification & Handling
+
+![TLP](https://img.shields.io/badge/TLP-Traffic_Light_Protocol-8B8B00?style=for-the-badge)
+![NOFORN](https://img.shields.io/badge/NOFORN-Handling_Instructions-8B8B00?style=for-the-badge)
+![Need to Know](https://img.shields.io/badge/Need_to_Know-Compartmentalization-8B8B00?style=for-the-badge)
+
+Standard classification system, handling instructions, compartmentalization, and need-to-know principles. Not because I work in a SCIF, but because treating intelligence products with proper classification discipline — even in the private sector — is what separates professionals from bloggers.
 
 ## 📊 GitHub Stats
 
@@ -195,7 +350,7 @@ On the offensive side, I focus on red team methodologies, reconnaissance automat
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TU_USERNAME&theme=github-dark-blue&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </p>
 
-<!-- 🟡👻 Pac-Man — descomenta DESPUÉS de configurar el GitHub Action -->
+<!-- 🟡👻 Pac-Man — uncomment AFTER setting up the GitHub Action -->
 <!--
 <p align="center">
   <picture>
