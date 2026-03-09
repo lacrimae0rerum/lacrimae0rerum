@@ -176,7 +176,6 @@ Sistema de clasificación estándar, instrucciones de manejo, compartimentación
 </p>
 
 <!-- 🟡👻 Pac-Man, descomenta DESPUÉS de configurar el GitHub Action -->
-<!--
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lacrimae0rerum/lacrimae0rerum/output/pacman-contribution-graph-dark.svg">
@@ -184,7 +183,6 @@ Sistema de clasificación estándar, instrucciones de manejo, compartimentación
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/lacrimae0rerum/lacrimae0rerum/output/pacman-contribution-graph-dark.svg"/>
   </picture>
 </p>
--->
 
 ---
 
