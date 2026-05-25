@@ -22,8 +22,9 @@ I build local-first tools for intelligence work: systems that help collect, stru
 
 - **Corvus / CorvusEngine**: intelligence-vault workflows, knowledge graphs and analyst-assistance tooling.
 - **FlowsINT Corvus**: CTI-oriented entity modeling, enrichment flows and operational UI/API experiments.
-- **Offsec Journal**: offensive-team and lab workflow management.
+- **Offsec Journal**: offensive-team and lab workflow management for engagements, labs, notes and reporting.
 - **GRC Suite**: private risk-assessment workflow for executive reporting from OSINT inputs.
+- **IT Alignment Chart**: lightweight visual tool for mapping technology posture, business alignment and risk signals.
 - **CorvusDossiers**: public intelligence reports generated from Corvus-style analysis pipelines.
 
 ## Principles
@@ -45,6 +46,7 @@ MITRE ATT&CK · Diamond Model · STIX/TAXII · TLP · structured analytic techni
 ## Selected Repositories
 
 - [CorvusDossiers](https://github.com/lacrimae0rerum/CorvusDossiers) - intelligence dossiers generated from CorvusEngine-style analysis.
+- [it-alignment-chart](https://github.com/lacrimae0rerum/it-alignment-chart) - visual mapping of technology posture, business alignment and risk signals.
 - [cronicas-barbaras](https://github.com/lacrimae0rerum/cronicas-barbaras) - interactive knowledge graph viewer.
 - [CTI-Bookmarks-Landpage](https://github.com/lacrimae0rerum/CTI-Bookmarks-Landpage) - CTI essentials landing page.
 - [html-cti-for-juniors](https://github.com/lacrimae0rerum/html-cti-for-juniors) - CTI learning material.
@@ -69,8 +71,9 @@ Construyo herramientas local-first para trabajo de inteligencia: sistemas que ay
 
 - **Corvus / CorvusEngine**: flujos de bóveda de inteligencia, grafos de conocimiento y asistencia al analista.
 - **FlowsINT Corvus**: modelado de entidades CTI, enriquecimientos y experimentos de UI/API operativa.
-- **Offsec Journal**: gestión de equipos ofensivos, laboratorios y flujos de trabajo.
+- **Offsec Journal**: gestión de equipos ofensivos, laboratorios, notas e informes.
 - **GRC Suite**: flujo privado de evaluación de riesgo e informes ejecutivos desde entradas OSINT.
+- **IT Alignment Chart**: herramienta visual ligera para mapear postura tecnológica, alineamiento de negocio y señales de riesgo.
 - **CorvusDossiers**: informes públicos generados con pipelines de análisis estilo Corvus.
 
 ## Principios
