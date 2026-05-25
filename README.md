@@ -25,7 +25,6 @@ I build local-first tools for intelligence work: systems that help collect, stru
 - **Offsec Journal**: offensive-team and lab workflow management.
 - **GRC Suite**: private risk-assessment workflow for executive reporting from OSINT inputs.
 - **CorvusDossiers**: public intelligence reports generated from Corvus-style analysis pipelines.
-- **secretsnitch**: fast modular secret-scanning experiments.
 
 ## Principles
 
@@ -46,7 +45,6 @@ MITRE ATT&CK · Diamond Model · STIX/TAXII · TLP · structured analytic techni
 ## Selected Repositories
 
 - [CorvusDossiers](https://github.com/lacrimae0rerum/CorvusDossiers) - intelligence dossiers generated from CorvusEngine-style analysis.
-- [secretsnitch](https://github.com/lacrimae0rerum/secretsnitch) - modular secret scanner.
 - [cronicas-barbaras](https://github.com/lacrimae0rerum/cronicas-barbaras) - interactive knowledge graph viewer.
 - [CTI-Bookmarks-Landpage](https://github.com/lacrimae0rerum/CTI-Bookmarks-Landpage) - CTI essentials landing page.
 - [html-cti-for-juniors](https://github.com/lacrimae0rerum/html-cti-for-juniors) - CTI learning material.
@@ -74,7 +72,6 @@ Construyo herramientas local-first para trabajo de inteligencia: sistemas que ay
 - **Offsec Journal**: gestión de equipos ofensivos, laboratorios y flujos de trabajo.
 - **GRC Suite**: flujo privado de evaluación de riesgo e informes ejecutivos desde entradas OSINT.
 - **CorvusDossiers**: informes públicos generados con pipelines de análisis estilo Corvus.
-- **secretsnitch**: experimentos de escaneo modular de secretos.
 
 ## Principios
 
