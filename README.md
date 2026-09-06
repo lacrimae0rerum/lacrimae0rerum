@@ -8,8 +8,6 @@ Cyber Threat Intelligence analyst working across OSINT, adversary research, DFIR
 
 I build local-first tools for intelligence work: systems that help collect, structure, enrich and reason over messy data without turning every workflow into another SaaS dependency.
 
-[Version en español](#español)
-
 ## Focus
 
 - Cyber Threat Intelligence: collection, enrichment, assessment, reporting and operational context.
